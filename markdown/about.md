@@ -1,5 +1,7 @@
 Why does Speak-Out-Loud exist?
 
+[home](https://haqihaq2023.github.io/speak-out-loud/)
+
 - Islamic Audiobooks are hard to find.
 - Especially for classics.
 - With AI becoming more accessible, text to speech becomes a great alternative to large audio files.
